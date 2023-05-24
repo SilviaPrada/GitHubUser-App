@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="title_bar_detail">Detail User</string>
+    <string name="title_bar_main">GitHub User App</string>
+    <string name="title_bar_favorite">Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="nama_user">Nama User</string>
+    <string name="search">Cari user GitHub di sini</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers %d</string>
+    <string name="following">Following %d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="tabs">Tab</string>
+</resources>
